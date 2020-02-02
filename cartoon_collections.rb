@@ -1,5 +1,4 @@
 
-
 dwarves = ["Doc", "Dopey", "Bashful", "Grumpy"]
 planeteer_calls = ["earth", "wind", "fire", "water", "heart"]
 call_screams = ["bo", "bam", "boom", "bazam", "powzer"]
